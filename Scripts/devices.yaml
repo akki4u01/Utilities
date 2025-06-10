@@ -1,0 +1,12 @@
+router1:
+  host: 192.168.0.22
+  username: cisco123
+  password: cisco123
+  secret: cisco123
+  device_type: cisco_ios
+
+router2:
+  host: 192.168.1.2
+  username: admin
+  password: cisco123
+  device_type: cisco_ios
